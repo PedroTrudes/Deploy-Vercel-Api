@@ -2,11 +2,11 @@
   "name": "deploy-vercel-nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "api/index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
     "start": "node .",
-    "dev": "nodemon api/index.js",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
